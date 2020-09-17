@@ -1,0 +1,13 @@
+
+ [user]
+ email = "Tu_email de Github"
+ name = "Tu_usuario de Github"
+
+
+ [remote "origin"]
+ url = "Dirección_web_repositorio de Github"
+
+
+ [branch "master"]
+ remote = origin
+ merge = refs/heads/master
